@@ -1,0 +1,63 @@
+﻿
+create table EMPLOYEES_MT(
+userid integer,
+name varchar(50),
+email varchar(50),
+wage numeric(8,2) 
+);
+
+
+insert into EMPLOYEES_MT (USERID, NAME, EMAIL, WAGE)
+values (50, 'Andrea Baduchi', 'Andrea_Baduchi@yahoo.com', 33.90);
+
+insert into EMPLOYEES_MT (USERID, NAME, EMAIL, WAGE)
+values (109, 'Tracy Kyle', 'Tracy_Kyle@telus.net', 34.20);
+
+insert into EMPLOYEES_MT (USERID, NAME, EMAIL, WAGE)
+values (122, 'Michelle Waters', 'Michelle_Waters@Tabian.ca', 15.00);
+
+insert into EMPLOYEES_MT (USERID, NAME, EMAIL, WAGE)
+values (138, 'Dean Anderson', 'Dean_Anderson@internet.com', 14.00);
+
+insert into EMPLOYEES_MT (USERID, NAME, EMAIL, WAGE)
+values (142, 'Wayne Jones', 'Wayne_Jones@gmail.com', 55.00);
+
+insert into EMPLOYEES_MT (USERID, NAME, EMAIL, WAGE)
+values (217, 'Craig Iraqui', 'Craig_Iraqui@163.com', 90.00);
+
+insert into EMPLOYEES_MT (USERID, NAME, EMAIL, WAGE)
+values (622, 'Michael Foster', 'Michael_Foster@email.com', 65.00);
+
+insert into EMPLOYEES_MT (USERID, NAME, EMAIL, WAGE)
+values (336, 'Angie Hille', 'Angie_Hille@yahoo.ca', 12.00);
+
+insert into EMPLOYEES_MT (USERID, NAME, EMAIL, WAGE)
+values (5, 'Mike Johnson', 'Mike_Johnson@hotmail.com', 11.00);
+
+insert into EMPLOYEES_MT (USERID, NAME, EMAIL, WAGE)
+values (45, 'Curtis Davidson', 'Curtis_Davidson@internet.ca', 19.00);
+
+insert into EMPLOYEES_MT (USERID, NAME, EMAIL, WAGE)
+values (784, 'Blake Sheldon', 'Blake_Sheldon@gmail.com', 18.00);
+
+insert into EMPLOYEES_MT (USERID, NAME, EMAIL, WAGE)
+values (46, 'Jessica Dhaliwal', 'Jessica_Daliwal@hotmail.com', 46.00);
+
+insert into EMPLOYEES_MT (USERID, NAME, EMAIL, WAGE)
+values (5649, 'Alexis Davidson', 'Alexis_Davidson@Live.ca', 33.00);
+
+insert into EMPLOYEES_MT (USERID, NAME, EMAIL, WAGE)
+values (69, 'Simon Alexander', 'Simon_Alexander@owfg.com', 36.00);
+
+insert into EMPLOYEES_MT (USERID, NAME, EMAIL, WAGE)
+values (445, 'Damien Michaels', 'Damien_Michaels@email.com', 31.00);
+
+insert into EMPLOYEES_MT (USERID, NAME, EMAIL, WAGE)
+values (3288, 'Raquel Hendry', 'Raquel_Hendry@123.com', 22.00);
+
+insert into EMPLOYEES_MT (USERID, NAME, EMAIL, WAGE)
+values (594, 'Greg Kucher', 'Greg_Kuchar@madeupemail.com', 16.00);
+
+insert into EMPLOYEES_MT (USERID, NAME, EMAIL, WAGE)
+values (4, 'Mitch Tabs', 'Mitch_Tabs@Tabian.ca', 19.00);
+

@@ -1,0 +1,6 @@
+--Substring
+insert into substrtut_mt (name,wage)
+(select substr(e.name,1,1) || '. ' || substr(e.name.instr(e.name, ' '), 50),
+e.wage from employees_mt e);
+
+select * from substrtut_mt;

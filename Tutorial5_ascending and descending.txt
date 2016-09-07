@@ -1,0 +1,3 @@
+select i.item_name , i.item_quantity 
+from inventory_mt i
+order by i.item_quantity asc/desc;

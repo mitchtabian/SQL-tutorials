@@ -1,0 +1,4 @@
+select i.item_name as "Item" , sum(i.item_quantity) as "Total Stock"
+from inventory_mt i
+group by i.item_name
+order by sum(i.item_quantity) asc;
